@@ -122,5 +122,3 @@ plt.show()
 
 
 
-
-a = GeneticAlgorithm(100,[0,1],0.005, 0.01,1000)
